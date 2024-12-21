@@ -16,6 +16,7 @@
 
 ### Ejercicio 1
 Crea un programa que cuente cuántas palabras hay en una frase ingresada por el usuario.
+[Pasos](https://github.com/Cuban-Devs/Practicas/blob/main/HELPER.md#pasos-ejercicio-1-)
 
 Ejemplo de entrada y salida:  
 
@@ -27,6 +28,7 @@ Salida:
 
 ### Ejercicio 2
 Crea un programa que convierta grados Celsius a Fahrenheit.
+[Pasos](https://github.com/Cuban-Devs/Practicas/blob/main/HELPER.md#pasos-ejercicio-2-%EF%B8%8F)
 
 Ejemplo de entrada y salida:  
 
@@ -38,6 +40,7 @@ Salida:
 
 ### Ejercicio 3
 Escribe un programa que cuente cuántas vocales tiene una frase ingresada por el usuario.
+[Pasos](https://github.com/Cuban-Devs/Practicas/blob/main/HELPER.md#pasos-ejercicio-3-)
 
 Ejemplo de entrada y salida:
 
